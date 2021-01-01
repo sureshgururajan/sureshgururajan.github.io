@@ -1,2 +1,0 @@
-(this["webpackJsonpsureshgururajan.github.io"]=this["webpackJsonpsureshgururajan.github.io"]||[]).push([[0],{28:function(e,t,r){"use strict";r.r(t);var n=r(5),s=r(0),i=r.n(s),c=r(7),u=r.n(c),a=r(54);var h=function(){return Object(n.jsx)("div",{children:Object(n.jsx)(a.a,{children:" Testing "})})};u.a.render(Object(n.jsx)(i.a.StrictMode,{children:Object(n.jsx)(h,{})}),document.getElementById("root"))}},[[28,1,2]]]);
-//# sourceMappingURL=main.93a168c6.chunk.js.map
