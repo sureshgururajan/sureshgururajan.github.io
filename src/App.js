@@ -1,10 +1,14 @@
 import React from 'react';
-import { PrimaryButton } from '@fluentui/react';
+import NavBar from './NavBar';
+import Footer from './Footer';
+import Contents from './Contents';
 
 function App() {
   return (
     <div>
-      <PrimaryButton> Testing </PrimaryButton>
+      <NavBar />
+      <Contents />
+      <Footer />
     </div>
   );
 }
