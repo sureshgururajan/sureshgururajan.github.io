@@ -2,8 +2,8 @@ import React from 'react';
 
 function NavBar() {
   return (
-    <div>
-      Nav Bar
+    <div class="ms-fontSize-42">
+      Suresh's Blog
     </div>
   )
 }
