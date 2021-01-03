@@ -10,9 +10,7 @@ function App() {
         <div class="ms-Grid-col ms-lg2"></div>
         <div class="ms-Grid-col ms-lg8">
           <NavBar />
-          <div class="ms-Grid-row"> &nbsp; </div>
           <Contents />
-          <div class="ms-Grid-row"> &nbsp; </div>
           <Footer />
         </div>
         <div class="ms-Grid-col ms-lg2"></div>
