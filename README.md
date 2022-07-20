@@ -2,6 +2,16 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+Visit the website with this link:
+
+https://sureshgururajan.github.io/
+
+### Create a new Docusaurus package
+
+```
+$ npx create-docusaurus@latest sureshg-documentation-website classic --typescript
+```
+
 ### Installation
 
 ```
