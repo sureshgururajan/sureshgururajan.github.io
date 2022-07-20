@@ -69,12 +69,12 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Tutorial",
+            label: "💼️ Projects",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "✍️ Blog", position: "left" },
           {
-            href: "https://github.com/sureshgururajan/sureshgururajan.github.io",
-            label: "GitHub",
+            href: "https://gitlab.com/sureshgururajan",
+            label: "GitLab",
             position: "right",
           },
         ],
@@ -127,6 +127,11 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
       },
     }),
 };
