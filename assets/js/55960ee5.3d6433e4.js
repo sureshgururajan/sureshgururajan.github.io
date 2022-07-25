@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksureshg_documentation_website=self.webpackChunksureshg_documentation_website||[]).push([[4121],{8070:e=>{e.exports=JSON.parse('[{"label":"wiki","permalink":"/docs/tags/wiki","count":1},{"label":"intro","permalink":"/docs/tags/intro","count":1}]')}}]);
