@@ -61,8 +61,8 @@ const config = {
       navbar: {
         title: "Suresh Gururajan",
         logo: {
-          alt: "Suresh Gururajan Logo",
-          src: "img/logo.svg",
+          alt: "Suresh Gururajan",
+          src: "img/suresh.jpeg",
         },
         items: [
           {
@@ -77,10 +77,15 @@ const config = {
             position: "left",
             label: "🌏️ Wiki",
           },
+          {
+            to: "/about",
+            position: "right",
+            label: "👨‍🎓️ About Me",
+          },
           { to: "/blog", label: "✍️ Blog", position: "left" },
           {
             href: "https://gitlab.com/sureshgururajan",
-            label: "GitLab",
+            label: "⚙ GitLab",
             position: "right",
           },
         ],

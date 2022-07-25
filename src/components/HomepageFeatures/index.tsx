@@ -10,28 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Portfolio",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    title: "🔍️ Portfolio",
+    Svg: require("@site/static/img/undraw_organizing_projects_re_9p1k.svg")
+      .default,
     description: (
-      <>🔍️ See my projects, open source contributions and knowledge base.</>
+      <>See my projects, open source contributions and knowledge base.</>
     ),
   },
   {
-    title: "Blog",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    title: "📖️ Blog",
+    Svg: require("@site/static/img/undraw_blogging_re_kl0d.svg").default,
     description: (
       <>
-        📖️ Visit my <code>technical</code> blog to check out interesting
-        tutorials, articles and hopefully learn something new.
+        Visit my <code>technical</code> blog to check out interesting tutorials,
+        articles and hopefully learn something new.
       </>
     ),
   },
   {
-    title: "Contribute",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    title: "👷‍♂️️ Contribute",
+    Svg: require("@site/static/img/undraw_work_together_re_5yhn.svg").default,
     description: (
       <>
-        👷‍♂️️ If you have something interesting you'd like to share, feel free to
+        If you have something interesting you'd like to share, feel free to
         contribute and create pull requests. We can share knowledge with each
         other and grow professionally.
       </>
