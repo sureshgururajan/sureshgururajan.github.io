@@ -67,7 +67,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "projects/intro",
+            docId: "projects/family-tree-maker/intro",
             position: "left",
             label: "💼️ Projects",
           },
@@ -98,7 +98,7 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "/docs/projects/intro",
+                to: "/docs/projects/family-tree-maker/intro",
               },
             ],
           },
